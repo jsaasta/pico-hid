@@ -1,4 +1,4 @@
-# Bad-keyboard Pico version
+# Pico HID
 
 Easy sample code / proof of concept
 
